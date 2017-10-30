@@ -93,6 +93,8 @@ div.tip p {
 
 div.tip li {
     margin-left: 0 !important;
+    border: 0 !important;
+    line-height: 1.2em !important;
 }
 
 div.tip li:before {
@@ -100,5 +102,6 @@ div.tip li:before {
     float: left !important;
     top: -1px;
     position: relative;
+    margin-right: 3px;
 }
 </style>
