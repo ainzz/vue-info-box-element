@@ -95,6 +95,7 @@ div.tip li {
     margin-left: 0 !important;
     border: 0 !important;
     line-height: 1.2em !important;
+    color: #48494a !important;
 }
 
 div.tip li:before {
