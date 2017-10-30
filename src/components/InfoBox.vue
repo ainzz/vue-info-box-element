@@ -107,6 +107,6 @@ div.tip li:before {
 }
 
 div.tip ul {
-    list-style-type: disc !important;
+    list-style-type: none !important;
 }
 </style>
