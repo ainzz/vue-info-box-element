@@ -105,4 +105,8 @@ div.tip li:before {
     position: relative;
     margin-right: 3px;
 }
+
+div.tip ul {
+    list-style-type: disc !important;
+}
 </style>
