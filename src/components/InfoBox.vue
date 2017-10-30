@@ -86,4 +86,19 @@ div.tip.error {
     background-color: #fff6f7;
     border-left: 5px solid #fe6c6f;
 }
+
+div.tip p {
+    font-size: 13px !important;
+}
+
+div.tip li {
+    margin-left: 0 !important;
+}
+
+div.tip li:before {
+    content: "►" !important;
+    float: left !important;
+    top: -1px;
+    position: relative;
+}
 </style>

@@ -1,0 +1,27 @@
+{
+  "name": "vue-info-box-element",
+  "version": "0.5.0",
+  "description": "A simple component for vuejs 2.0 to display different types of info boxes that goes nice with element ui Edit",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainzz/vue-info-box-element.git"
+  },
+  "keywords": [
+    "element",
+    "ui",
+    "vuejs",
+    "vue",
+    "tips",
+    "infobox"
+  ],
+  "author": "Alin Stefan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ainzz/vue-info-box-element/issues"
+  },
+  "homepage": "https://github.com/ainzz/vue-info-box-element#readme"
+}
