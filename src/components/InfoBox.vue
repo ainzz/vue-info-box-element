@@ -101,9 +101,9 @@ div.tip li {
 div.tip li:before {
     content: "▸" !important;
     float: left !important;
-    top: -1px;
+    top: -2px;
     position: relative;
-    margin-right: 3px;
+    margin-right: 4px;
 }
 
 div.tip ul {
