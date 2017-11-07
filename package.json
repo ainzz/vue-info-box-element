@@ -1,6 +1,6 @@
 {
   "name": "vue-info-box-element",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "description": "A simple component for vuejs 2.0 to display different types of info boxes that goes nice with element ui Edit",
   "main": "main.js",
   "scripts": {
