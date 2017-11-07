@@ -99,7 +99,7 @@ div.tip li {
 }
 
 div.tip li:before {
-    content: "►" !important;
+    content: "▸" !important;
     float: left !important;
     top: -1px;
     position: relative;
