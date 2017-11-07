@@ -99,11 +99,10 @@ div.tip li {
 }
 
 div.tip li:before {
-    content: "▸" !important;
+    content: "\21AA" !important;
     float: left !important;
-    top: -2px;
     position: relative;
-    margin-right: 4px;
+    margin-right: 3px;
 }
 
 div.tip ul {
